@@ -1,0 +1,6 @@
+{
+  "name": "PataSegura — Cuidado y Rastreo Seguro de Mascotas en Perú",
+  "description": "Plataforma peruana que conecta dueños de mascotas con cuidadores verificados con RENIEC y antecedentes policiales, con rastreo GPS en vivo, check-in fotográfico, placas QR y alerta comunitaria de 3 km.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
