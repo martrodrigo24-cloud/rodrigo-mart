@@ -14,6 +14,7 @@ export default defineConfig(({mode}) => {
     '';
 
   return {
+    base: '/rodrigo-mart/',
     define: {
       __GMP_API_KEY__: JSON.stringify(gmpApiKey),
     },
