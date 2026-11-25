@@ -1,0 +1,20 @@
+{
+  "name": "PataSegura Perú",
+  "short_name": "PataSegura",
+  "description": "Prototipo de cuidado y seguimiento de mascotas en Perú.",
+  "lang": "es-PE",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8F7",
+  "theme_color": "#0E6245",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
